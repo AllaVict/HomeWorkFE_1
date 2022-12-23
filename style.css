@@ -1,0 +1,72 @@
+h1{
+  color: rgb(58, 137, 110);
+}
+
+#center { 
+  text-align: center;
+ }
+
+#img_sea{
+  width: 270px;
+  height: 200px;
+}
+
+#img_work{
+  width: 270px;
+  height: 200px;
+}
+
+#img_family{
+  width: 270px;
+  height: 180px;
+}
+
+
+#block1{
+   border: 1 px solid black;
+   color: rgb(171, 141, 5);
+    /* background-color: hsl(167, 100%, 53%); */
+    background-color: hsl(180, 100%, 89%);
+  margin: 10px 20px 10px 10px;
+  padding: 10px 20px 30px 50px;
+}
+
+
+#block2{
+  border: 1 px solid black;
+  color: rgb(28, 151, 151);
+  /* background-color: #ffff85 ; */
+   background-color: #fafaa1 ;
+  margin: 10px 20px 10px 10px;
+  padding: 10px 20px 30px 50px;
+}
+
+#block3{
+  border: 1 px solid black;
+  color: brown;
+  /* background-color: hsl(285, 48%, 75%); */
+  background-color: hsl(285, 69%, 85%);
+  margin: 10px 20px 10px 10px;
+  padding: 10px 20px 30px 50px;
+}
+
+#block4{
+  border: 2px solid black;
+  text-align: center;
+  margin: 10px 20px 10px 10px;
+  padding: 20px 10px 10px 10px;
+  }
+
+  
+#img_facebook_logo{
+  width: 20px;
+  height: 20px;
+}
+#img_instagram_logo{
+  width: 20px;
+  height: 20px;
+}
+#img_linkedin_logo{
+  width: 20px;
+  height: 20px;
+}
